@@ -10,4 +10,12 @@ function logShout(string){
 function logWhisper(string){
   console.log(string.toLowerCase());
 }
-function 
+function sayHiToGrandma(string){
+  if(string===string.toUpperCase()){
+    
+  }
+  if(string===string.toLowerCase()){
+    
+  }
+  if(string==="")
+}
